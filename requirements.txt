@@ -1,0 +1,5 @@
+groq=0.15.0
+phi=0.6.7
+phidata=2.7.7
+python-dotenv=1.0.1
+yfinance=0.2.51

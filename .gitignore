@@ -1,0 +1,42 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+
+# Log files
+*.log
+
+# Virtual environments
+.venv/
+env/
+virtualenv/
+
+# Package installation files
+*.egg-info/
+dist/
+build/
+
+# IDE and editor files
+.vscode/
+.pycharm/
+.idea/
+*.iml
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.pid
+*.seed
+*.secret
+*.key
+
+# Data files
+data/
+*.csv
+*.json
+*.xlsx
+*.xls
+
+# Note: You may want to keep certain data files under version control,
+# so uncomment the above lines if necessary.
