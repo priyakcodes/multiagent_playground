@@ -1,7 +1,10 @@
+"""
+This file creates agents and displays the result.
+"""
 from phi.agent import Agent
 from phi.model.groq import Groq
-from dotenv import load_dotenv
 from phi.tools.yfinance import YFinanceTools
+from dotenv import load_dotenv
 
 load_dotenv()
 

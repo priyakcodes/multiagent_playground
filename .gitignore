@@ -30,6 +30,7 @@ Thumbs.db
 *.seed
 *.secret
 *.key
+*.env
 
 # Data files
 data/
